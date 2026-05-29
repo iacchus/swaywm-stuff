@@ -3,7 +3,7 @@
 #!/home/iacchus/.venv/bin/python
 
 
-import itertools
+#  import itertools
 import os
 import psutil
 import subprocess
